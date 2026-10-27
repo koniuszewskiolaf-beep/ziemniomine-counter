@@ -1,0 +1,12 @@
+{
+  "name": "ziemniomine-counter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Anonimowy licznik aktywnych graczy moda ZiemnioMine",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
